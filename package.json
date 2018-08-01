@@ -1,0 +1,23 @@
+{
+  "name": "ds-node-logger",
+  "version": "1.0.0",
+  "description": "The simplest logger for NodeJS applications",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "logger",
+    "log"
+  ],
+  "author": "dyakov.space",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyakovri/NodeLogger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dyakovri/NodeLogger/issues"
+  },
+  "homepage": "https://github.com/dyakovri/NodeLogger#readme",
+  "main": "index.js"
+}
